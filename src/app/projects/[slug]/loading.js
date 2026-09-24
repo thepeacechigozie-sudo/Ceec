@@ -6,4 +6,4 @@ export default function Loading() {
       <Loader2 className="w-8 h-8 text-coffee-tan animate-spin" />
     </div>
   );
-}
+} 
